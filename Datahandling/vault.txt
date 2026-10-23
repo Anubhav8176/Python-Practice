@@ -1,0 +1,10 @@
+{
+    "Google": {
+        "username": "anubhav",
+        "password": "Mahadev2908@"
+    },
+    "GFG": {
+        "username": "noobcoderrr1908",
+        "password": "AnuPalak2908"
+    }
+}
